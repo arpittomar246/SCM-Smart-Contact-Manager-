@@ -1,4 +1,4 @@
-# SCM-Smart-Contact-Manager-
+# SCM-Smart-Contact-Manager
 
 The Smart Contact Manager is a sophisticated web application designed to efficiently manage and organize contacts. This application leverages the powerful Java programming language and the Spring Boot framework to deliver a robust and scalable solution.
 
